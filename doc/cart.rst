@@ -15,7 +15,7 @@ All of the following types are abstract and meant to be subclassed to implement 
 .. class:: CartLine
    :noindex:
 
-   A single line in a shopping cart. Describes a product, its quantity and (optinal) data. Attributes: :attr:`product`, :attr:`quantity`, :attr:`data`.
+   A single line in a shopping cart. Describes a product, its quantity and (optional) data. Attributes: :attr:`product`, :attr:`quantity`, :attr:`data`.
 
    Suitable for pickling.
 
